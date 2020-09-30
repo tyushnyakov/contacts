@@ -12,6 +12,18 @@
       "name": "Иван",
       "surname": "Иванов",
       "email": "ivanov@foo.com"
+    },
+    {
+      "id": 1,
+      "name": "Пётр",
+      "surname": "Петров",
+      "email": "petrov@foo.com"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "surname": "Smith",
+      "email": "smith@foo.com"
     }
   ]
 }
