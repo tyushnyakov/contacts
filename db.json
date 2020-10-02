@@ -3,7 +3,7 @@
     {
       "id": 0,
       "login": "user",
-      "password": 12345
+      "password": "12345"
     }
   ],
   "contacts": [
